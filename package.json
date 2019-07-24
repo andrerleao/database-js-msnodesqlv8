@@ -11,12 +11,12 @@
     "url": "git+https://github.com/andrerleao/database-js-msnodesqlv8.git"
   },
   "keywords": [
-    "database-js-msnodesqlv8",  
+    "database-js-msnodesqlv8",
     "mssql/msnodesqlv8",
     "msnodesqlv8"
   ],
   "author": {
-    "name": "André Leão"    
+    "name": "André Leão"
   },
   "license": "MIT",
   "dependencies": {
@@ -25,6 +25,6 @@
     "msnodesqlv8": "^0.7.3"
   },
   "devDependencies": {
-    "database-js": "^3.0.2",    
+    "database-js": "^3.0.2"
   }
 }
