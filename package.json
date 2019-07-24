@@ -1,0 +1,30 @@
+{
+  "name": "database-js-msnodesqlv8",
+  "version": "1.0.0",
+  "description": "Database-js driver for SQL Server with mssql/msnodesqlv8  FOR (Windows Only).",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/andrerleao/database-js-msnodesqlv8.git"
+  },
+  "keywords": [
+    "database-js-msnodesqlv8",  
+    "mssql/msnodesqlv8",
+    "msnodesqlv8"
+  ],
+  "author": {
+    "name": "André Leão"    
+  },
+  "license": "MIT",
+  "dependencies": {
+    "mssql": "^4.2.2",
+    "tedious": "^2.6.2",
+    "msnodesqlv8": "^0.7.3"
+  },
+  "devDependencies": {
+    "database-js": "^3.0.2",    
+  }
+}
